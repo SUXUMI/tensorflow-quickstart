@@ -11,3 +11,5 @@ Google Colab_ში დაწერილი ტენსორფლოუს t
 თუ რეალური დაინტერესება მოყვა, გავაკეთებ სრულიად newbie ვერსიასაც.
 
 ნებისმიერი დახმარება მისაღებია.
+
+Google Colab - https://colab.research.google.com/drive/1iWOSWFthaVFDCcWA4B7D_-LrpLdZgPB9
